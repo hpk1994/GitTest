@@ -1,2 +1,3 @@
 add master1
-add master2
+add master
+add feature12
